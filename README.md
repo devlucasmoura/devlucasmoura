@@ -1,5 +1,8 @@
 <img width="1128" height="191" alt="Frame 1 (2)" src="https://github.com/user-attachments/assets/4bde63ad-b83b-4e4b-adce-cf22357b7139" />
 
+<br>
+<br>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=ffffff&size=35&center=true&vCenter=true&width=2000&lines=Be-Welcome!;Fewer+excuses%2C+more+results.)](https://git.io/typing-svg)
 
 <h2 align="left">Stats</h2>
