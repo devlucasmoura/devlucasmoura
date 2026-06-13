@@ -5,6 +5,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=ffffff&size=35&center=true&vCenter=true&width=2000&lines=Be-Welcome!;Fewer+excuses%2C+more+results.)](https://git.io/typing-svg)
 
+## Hello, my name is Lucas Moura and I am a Back-End Developer! ☕
+Currently seeking my first internship in tech. Passionate about Back-End development. Always been into technology and gaming. Understanding what happens behind the scenes is what drives me. I'm driven by challenges and comfortable with deadlines.
+
 <h2 align="left">Stats</h2>
 
 <div align="left">
