@@ -20,7 +20,6 @@ Currently seeking my first internship in tech. Passionate about Back-End develop
 <h4>Back-End:</h4>
     <img align="center" alt="React logo" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
     <img align="center" alt="React logo" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
-    <img align="center" alt="React logo" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
     
 </div>
 
@@ -39,8 +38,11 @@ Currently seeking my first internship in tech. Passionate about Back-End develop
 
 </div>
 
+<h2 align="left">Tools:</h2>
+
 <div style="border: 1px solid #ccc; border-radius: 5px; padding: 10px; margin-bottom: 10px;">
-<h4>Tools:</h4>
-  <img align="center" alt="React logo" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-  <img align="center" alt="React logo" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<h4>Back-End:</h4>
+    <img align="center" alt="React logo" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+    <img align="center" alt="React logo" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+    
 </div>
