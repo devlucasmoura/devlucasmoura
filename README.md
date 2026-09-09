@@ -8,10 +8,6 @@
 ## Hello, my name is Lucas Moura and I am a Back-End Developer! ☕
 Currently seeking my first internship in tech. Passionate about Back-End development. Always been into technology and gaming. Understanding what happens behind the scenes is what drives me. I'm driven by challenges and comfortable with deadlines.
 
-<h2 align="left">Stats</h2>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=devlucasmoura&theme=transparent&hide_border=&border_radius=0&short_numbers=)](https://git.io/streak-stats)
-
 <h2 align="left">Techs</h2>
 
 <div style="border: 1px solid #ccc; border-radius: 5px; padding: 10px; margin-bottom: 10px;">
