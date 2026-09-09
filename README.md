@@ -10,9 +10,7 @@ Currently seeking my first internship in tech. Passionate about Back-End develop
 
 <h2 align="left">Stats</h2>
 
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devlucasmoura&bg_color=1a2634&color=ffffff&line=5bc0de&point=ffffff&area=true&radius=16" height="300" alt="activity graph" />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=devlucasmoura&theme=transparent&hide_border=&border_radius=0&short_numbers=)](https://git.io/streak-stats)
 
 <h2 align="left">Techs</h2>
 
